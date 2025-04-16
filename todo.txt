@@ -1,0 +1,74 @@
+DjangoBnb Todo List
+
+install and setup Nextjs, create project
+Code for nav bar
+Categories on the front page
+List properties on the front page(static)
+Detail page for properties(static)
+Lnadlord page(static)
+My reservations(static)
+My properties(static)
+Inbox page(static)
+Detail page for chat(static)
+User menu popup
+Create reuseable modal window
+Log in modal(remember error codes)
+Sign up modal(remember error codes)
+
+
+Setup docker with django,postgresql, etc
+Install Drf, cors header etc
+Create user model/config
+Create app for properties
+Create model and serializers for properties
+Get properties in the front end and list them
+
+
+Implement autentication
+log in 
+Sign up
+log out
+
+
+Add properties from Nextjs
+Create modal
+Api endpoint
+Send data
+
+
+Detail page for properties
+Book properties
+Landlord dynamic page
+My properties dynamic
+My reservations dynamic
+Make it possible to set property as favourite
+My favourite page(with listings)
+Make conversations dynamic
+
+
+Setup web socket in the backend
+Make it possible to connect
+Send/receive messages
+Store and load messages
+Start new conversations
+
+Set up search filters
+Modal for search filter
+Country search
+Calender for checkin/ check out dates
+Search details(number of guests, bedroom etc)
+Api endpoint
+Choose between Categories on the front page
+
+Deployment
+Setting up git(github)
+Create server on digital oceans and set it up
+
+Backend
+Create environment
+Get code from git 
+Rest of server stuff
+
+Frontend
+Node,Ngix
+Get code from git
