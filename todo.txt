@@ -1,6 +1,6 @@
 DjangoBnb Todo List
 
-install and setup Nextjs, create project
+install and setup Nextjs, create project - DONE
 Code for nav bar
 Categories on the front page
 List properties on the front page(static)
