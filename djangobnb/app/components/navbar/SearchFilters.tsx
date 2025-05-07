@@ -5,7 +5,7 @@ const SearchFilters = () => {
                 <div className="flex flex-row items-center justify-between">
                     <div className="cursor-pointer w-[250px] h-[64px] px-8 flex justify-center flex-col rounded-full hover:bg-gray-100">
                         <p className="text-xs font-semibold">where</p>
-                        <p className="text-sm">wantedddd</p>
+                        <p className="text-sm">wanted</p>
                     </div>
 
                     <div className="cursor-pointer h-[64px] px-8 flex justify-center flex-col rounded-full hover:bg-gray-100">

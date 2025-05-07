@@ -5,7 +5,7 @@ Code for nav bar
 Categories on the front page
 List properties on the front page(static)
 Detail page for properties(static)
-Lnadlord page(static)
+Landlord page(static)
 My reservations(static)
 My properties(static)
 Inbox page(static)
