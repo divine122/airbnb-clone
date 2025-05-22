@@ -15,6 +15,7 @@ Create reuseable modal window
 Log in modal(remember error codes)
 Sign up modal(remember error codes)
 
+create api service file(And use it in the properties list)
 
 Setup docker with django,postgresql, etc
 Install Drf, cors header etc
