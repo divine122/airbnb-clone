@@ -20,6 +20,7 @@ create api service file(And use it in the properties list)
 Setup docker with django,postgresql, etc
 Install Drf, cors header etc
 Create user model/config
+config drf,cors etc
 Create app for properties
 Create model and serializers for properties
 Get properties in the front end and list them
