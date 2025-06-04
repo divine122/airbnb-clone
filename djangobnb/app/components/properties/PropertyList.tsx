@@ -13,27 +13,14 @@ export type PropertyType = {
 }
 
 const PropertyList = () => {
-   const [properties, setproperties] = useState<PropertyType[]>([]);
+   const [properties, setProperties] = useState<PropertyType[]>([]);
 
    const getproperties = async () => {
-      const url = 'http://localhost:8000/api/properties/';
+     const tmpProperties = await apiService.get('/api/properties/')
 
-      await fetch(url, {
-        method :"GET"
-      })
-        .then(response => response.json())
-        .then((json) => {
-          console.log('json',json);
-
-          setproperties(json.data)
-        })
-        .catch((error) => {
-          console.log('error',error);
-        })
+     setProperties(tmpProperties.data);
     };
   useEffect(() => {
-
-    apiService.get('hello');
     getproperties();
   }, []);
     return (
